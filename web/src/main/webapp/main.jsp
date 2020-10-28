@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 로컬에서 수정
+=======
+main 페이지
+>>>>>>> branch 'main' of https://github.com/leejeongeun123/repo.git
     
 </body>
 </html>
